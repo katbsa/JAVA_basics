@@ -1,0 +1,6 @@
+Program which:
+- reads three integers (f.ex.: a, b, c),
+- prints these three numbers,
+- rearranges the values in these variables in such a way that a contains the smallest of the three numbers, b — the middle one, and c — the largest,
+- finally prints them again in the same order.
+It is possible that two (or all three) numbers are equal. Exercise should be solved without using arrays or Strings!
